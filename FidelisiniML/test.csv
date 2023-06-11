@@ -1,0 +1,13 @@
+ID,Date,Age,Department,Gender,Religion,Experience,Workstyle,Skills,Availability,Stack,PerfTaskBurn,PerfBurnDW,Brainstorming,Speed,TechnicalSkills,SoftSkills,Agreeableness
+1,2022-05-17,31,Engineering,Female,Agnostic,7,Logical,Software Development,Full-time,Java,0.8,0.9,0.7,0.8,0.9,0.7,0.23
+2,2022-11-03,27,HR,Female,Catholic,5,People-oriented,Employee Training,Full-time,Human Resources,0.6,0.7,0.8,0.6,0.7,0.8,0.65
+3,2021-09-22,33,Engineering,Male,Atheist,8,Analytical,Data Analysis,Full-time,Python,0.75,0.8,0.9,0.7,0.8,0.9,0.32
+4,2023-02-09,29,Marketing,Female,Agnostic,6,Creative,Content Creation,Full-time,Content Marketing,0.7,0.7,0.8,0.6,0.7,0.8,0.43
+5,2023-03-19,34,Finance,Male,Muslim,9,Detail-oriented,Financial Analysis,Part-time,Accounting,0.8,0.9,0.7,0.8,0.9,0.7,0.74
+6,2023-06-03,30,HR,Female,Atheist,6,People-oriented,Conflict Resolution,Full-time,Human Resources,0.75,0.8,0.9,0.7,0.8,0.9,0.69
+7,2022-07-15,32,Engineering,Male,Atheist,8,Analytical,Problem Solving,Full-time,Python,0.8,0.9,0.7,0.8,0.9,0.7,0.35
+8,2020-12-28,29,Marketing,Female,Catholic,7,Collaborative,Marketing Strategy,Full-time,Digital Marketing,0.7,0.7,0.8,0.6,0.7,0.8,0.88
+9,2021-11-16,35,Finance,Male,Muslim,9,Detail-oriented,Financial Planning,Part-time,Accounting,0.8,0.9,0.7,0.8,0.9,0.7,0.29
+10,2022-08-30,28,HR,Female,Jewish,6,People-oriented,Employee Relations,Full-time,Human Resources,0.7,0.8,0.9,0.7,0.8,0.9,0.64
+11,2020-11-05,27,Marketing,Female,Catholic,5,Collaborative,Social Media Marketing,Full-time,Digital Marketing,0.6,0.7,0.8,0.6,0.7,0.8,0.15
+12,2023-01-14,31,Engineering,Male,Atheist,9,Analytical,Software Development,Full-time,Java,0.8,0.9,0.7,0.

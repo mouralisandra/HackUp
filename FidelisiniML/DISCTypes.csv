@@ -1,0 +1,91 @@
+Name,Age,Department,Gender,DISC Blue,DISC Red,DISC Green,DISC Yellow,Experience,Closeness to workplace,Workstyle,Problem Solving skills,Marital status,Availability,Stack,Salary,Performance,interactions,Balance
+John Doe,32,Engineering,Male,0.3,0.2,0.1,0.4,8,7,Analytical,9,Married,Full-time,Java,75000,0.8625,24,0.7040
+Jane Smith,28,Marketing,Female,0.4,0.1,0.2,0.3,5,6,Creative,7,Single,Full-time,Digital Marketing,60000,0.5120,17,0.5833
+David Johnson,35,Finance,Male,0.2,0.3,0.3,0.2,10,5,Detail-oriented,8,Married,Part-time,Accounting,45000,0.7892,21,0.4893
+Sarah Williams,30,HR,Female,0.1,0.4,0.2,0.3,7,8,People-oriented,6,Single,Full-time,Human Resources,55000,0.6578,18,0.3948
+Michael Brown,33,Engineering,Male,0.3,0.3,0.1,0.3,9,7,Logical,9,Married,Full-time,Python,80000,0.9185,25,0.7530
+Emily Davis,29,Marketing,Female,0.2,0.2,0.4,0.2,6,6,Collaborative,7,Single,Full-time,Content Marketing,58000,0.4821,16,0.5765
+Sophia Wilson,31,Engineering,Female,0.3,0.1,0.3,0.3,8,7,Analytical,8,Married,Full-time,JavaScript,70000,0.8176,22,0.6543
+Daniel Anderson,34,IT,Male,0.2,0.4,0.1,0.3,9,8,Detail-oriented,7,Married,Full-time,Database Administration,65000,0.7512,20,0.6543
+Olivia Martinez,27,Marketing,Female,0.3,0.2,0.2,0.3,5,6,Creative,8,Single,Part-time,Graphic Design,45000,0.5201,14,0.3496
+James Thompson,36,Finance,Male,0.2,0.2,0.3,0.3,10,5,Logical,9,Married,Full-time,Financial Analysis,85000,0.9456,28,0.6921
+Emma Clark,29,IT,Female,0.4,0.1,0.3,0.2,7,7,Analytical,8,Single,Full-time,Cloud Computing,70000,0.8534,23,0.7689
+Liam Rodriguez,31,Engineering,Male,0.2,0.3,0.2,0.3,8,6,Logical,7,Married,Full-time,C++,80000,0.8563,23,0.7689
+Lily Johnson,27,Marketing,Female,0.2,0.3,0.2,0.3,6,6,Collaborative,7,Single,Full-time,Market Research,58000,0.6321,17,0.5214
+William Davis,32,Engineering,Male,0.3,0.2,0.2,0.3,9,7,Analytical,9,Married,Full-time,Embedded Systems,75000,0.8921,25,0.7045
+Sophie Taylor,29,IT,Female,0.2,0.4,0.1,0.3,7,8,Detail-oriented,8,Single,Full-time,Software Engineering,65000,0.7812,21,0.6432
+Benjamin Hernandez,35,Finance,Male,0.3,0.2,0.3,0.2,10,5,Logical,9,Married,Part-time,Investment Management,45000,0.8295,23,0.5891
+Ava Moore,30,HR,Female,0.1,0.3,0.2,0.4,7,8,People-oriented,6,Single,Full-time,Employee Relations,55000,0.7123,19,0.4367
+Daniel Thompson,33,Engineering,Male,0.4,0.2,0.1,0.3,9,7,Logical,9,Married,Full-time,Machine Learning,80000,0.9125,26,0.7620
+Olivia Lewis,28,Marketing,Female,0.2,0.3,0.3,0.2,6,6,Creative,7,Single,Full-time,Content Writing,60000,0.5620,18,0.5123
+Noah Hall,34,IT,Male,0.3,0.1,0.4,0.2,8,8,Analytical,8,Married,Full-time,Network Administration,75000,0.8324,24,0.7089
+Emma Wright,27,Marketing,Female,0.3,0.2,0.2,0.3,5,6,Collaborative,8,Single,Part-time,Social Media Management,45000,0.4987,14,0.3867
+James Martinez,36,Finance,Male,0.3,0.3,0.1,0.3,10,5,Logical,9,Married,Full-time,Financial Planning,85000,0.9512,29,0.7214
+Sophia Walker,29,IT,Female,0.4,0.1,0.3,0.2,7,7,Analytical,8,Single,Full-time,Database Management,70000,0.8434,23,0.7589
+William Lopez,31,Engineering,Male,0.2,0.4,0.2,0.2,8,6,Logical,7,Married,Full-time,JavaScript,80000,0.8563,23,0.7689
+Oliver Adams,28,IT,Male,0.4,0.2,0.2,0.2,6,7,Detail-oriented,8,Single,Full-time,Data Analysis,65000,0.7125,22,0.6540
+Ella Collins,33,Marketing,Female,0.2,0.3,0.2,0.3,7,6,Creative,7,Married,Full-time,Brand Management,60000,0.6120,19,0.5294
+Henry Wright,35,Engineering,Male,0.2,0.3,0.3,0.2,9,7,Analytical,9,Married,Part-time,Electrical Engineering,55000,0.7892,20,0.4893
+Mia Patterson,29,HR,Female,0.1,0.4,0.3,0.2,6,8,People-oriented,6,Single,Full-time,Talent Acquisition,50000,0.6578,17,0.3948
+Alexander Smith,32,Engineering,Male,0.3,0.2,0.2,0.3,8,7,Logical,9,Married,Full-time,Python,75000,0.8625,24,0.7040
+Sofia White,28,Marketing,Female,0.2,0.2,0.3,0.3,5,6,Collaborative,7,Single,Full-time,Content Creation,55000,0.5120,16,0.5833
+James Wilson,30,Engineering,Male,0.3,0.2,0.3,0.2,9,8,Analytical,8,Married,Full-time,JavaScript,70000,0.8176,22,0.6543
+Emily Anderson,34,IT,Female,0.1,0.3,0.4,0.2,8,7,Detail-oriented,7,Married,Full-time,Network Security,65000,0.7512,20,0.6543
+Aiden Thompson,27,Marketing,Male,0.3,0.3,0.1,0.3,6,6,Creative,8,Single,Part-time,Market Research,45000,0.5201,14,0.3496
+Charlotte Davis,36,Finance,Female,0.2,0.2,0.3,0.3,10,5,Logical,9,Married,Full-time,Financial Analysis,85000,0.9456,28,0.6921
+Liam Johnson,29,IT,Male,0.4,0.1,0.2,0.3,7,8,Analytical,8,Single,Full-time,Cloud Computing,70000,0.8534,23,0.7689
+Isabella Adams,27,HR,Female,0.2,0.4,0.2,0.2,6,7,People-oriented,7,Single,Full-time,Recruitment,55000,0.6123,19,0.4321
+Ethan Turner,32,IT,Male,0.3,0.1,0.3,0.3,9,8,Analytical,9,Married,Full-time,Data Science,75000,0.8921,25,0.7045
+Charlotte Collins,28,Marketing,Female,0.1,0.3,0.3,0.3,5,6,Creative,8,Single,Part-time,Brand Management,50000,0.5321,15,0.4267
+Mason King,34,Finance,Male,0.3,0.3,0.2,0.2,10,5,Logical,9,Married,Full-time,Investment Banking,85000,0.9214,28,0.6891
+Amelia Scott,29,Engineering,Female,0.2,0.3,0.2,0.3,7,7,Analytical,8,Single,Full-time,Data Engineering,70000,0.8176,22,0.6543
+Henry Murphy,31,IT,Male,0.3,0.2,0.3,0.2,8,8,Detail-oriented,7,Married,Full-time,Software Development,65000,0.7512,20,0.6543
+Ava Phillips,27,Marketing,Female,0.3,0.2,0.2,0.3,5,6,Collaborative,7,Single,Full-time,Social Media Marketing,55000,0.5201,14,0.3496
+Alexander Parker,36,Finance,Male,0.2,0.2,0.3,0.3,10,5,Logical,9,Married,Full-time,Financial Analysis,85000,0.9456,28,0.6921
+Mia Edwards,29,HR,Female,0.3,0.1,0.4,0.2,7,8,People-oriented,6,Single,Full-time,Employee Relations,50000,0.6578,18,0.3948
+Daniel Foster,33,Engineering,Male,0.3,0.2,0.2,0.3,9,7,Logical,9,Married,Full-time,Embedded Systems,80000,0.9185,25,0.7530
+Harper Morgan,28,Marketing,Female,0.2,0.3,0.3,0.2,6,6,Creative,7,Single,Full-time,Content Marketing,60000,0.4821,16,0.5765
+Isabella Adams,27,HR,Female,0.2,0.4,0.3,0.1,6,8,People-oriented,6,Single,Full-time,Recruitment,55000,0.6289,17,0.4198
+Alexander Wright,32,Finance,Male,0.3,0.3,0.2,0.2,9,5,Logical,9,Married,Full-time,Investment Banking,75000,0.8596,24,0.6791
+Sophia Mitchell,29,Engineering,Female,0.2,0.1,0.4,0.3,7,7,Analytical,8,Married,Full-time,Data Science,70000,0.8167,22,0.6532
+William Turner,35,IT,Male,0.3,0.3,0.1,0.3,10,8,Detail-oriented,7,Married,Full-time,Software Development,80000,0.9185,25,0.7321
+Olivia Lee,30,Marketing,Female,0.4,0.2,0.2,0.2,5,6,Creative,7,Single,Full-time,Brand Management,60000,0.5320,16,0.5265
+Daniel Walker,33,Engineering,Male,0.3,0.2,0.3,0.2,9,7,Logical,9,Married,Full-time,Java,75000,0.8795,24,0.6940
+Emma Hill,28,Marketing,Female,0.2,0.3,0.3,0.2,6,6,Collaborative,7,Single,Full-time,Content Creation,58000,0.5121,17,0.5034
+James Collins,34,IT,Male,0.2,0.3,0.3,0.2,8,8,Analytical,8,Married,Full-time,Cybersecurity,70000,0.7892,21,0.6287
+Sophia Rodriguez,27,Marketing,Female,0.3,0.1,0.3,0.3,5,6,Creative,8,Single,Part-time,Graphic Design,45000,0.5481,14,0.3796
+William Thompson,36,Finance,Male,0.2,0.2,0.3,0.3,10,5,Logical,9,Married,Full-time,Financial Analysis,85000,0.9416,28,0.7023
+Ava Parker,29,IT,Female,0.4,0.2,0.2,0.2,7,7,Analytical,8,Single,Full-time,Cloud Computing,70000,0.8534,23,0.7489
+Ethan Mitchell,31,Engineering,Male,0.2,0.4,0.2,0.2,8,6,Logical,7,Married,Full-time,C++,80000,0.8563,23,0.7589
+Emily Wright,27,HR,Female,0.2,0.3,0.2,0.3,6,8,People-oriented,6,Single,Full-time,Employee Relations,55000,0.6178,18,0.4148
+Noah Turner,33,Engineering,Male,0.3,0.3,0.1,0.3,9,7,Logical,9,Married,Full-time,Python,80000,0.9185,25,0.7530
+Sophia Anderson,29,Marketing,Female,0.2,0.2,0.4,0.2,6,6,Collaborative,7,Single,Full-time,Social Media,58000,0.4821,16,0.5765
+Benjamin Wilson,31,Engineering,Male,0.3,0.1,0.3,0.3,8,7,Analytical,8,Married,Full-time,JavaScript,70000,0.8176,22,0.6543
+Emily Thompson,34,IT,Female,0.2,0.4,0.1,0.3,9,8,Detail-oriented,7,Married,Full-time,Database Administration,65000,0.7512,20,0.6543
+Oliver Martinez,27,Marketing,Male,0.3,0.2,0.2,0.3,5,6,Creative,8,Single,Part-time,Graphic Design,45000,0.5201,14,0.3496
+Charlotte Brown,36,Finance,Female,0.2,0.2,0.3,0.3,10,5,Logical,9,Married,Full-time,Financial Analysis,85000,0.9456,28,0.6921
+Liam Clark,29,IT,Male,0.4,0.1,0.3,0.2,7,7,Analytical,8,Single,Full-time,Cloud Computing,70000,0.8534,23,0.7689
+Emma Rodriguez,31,Engineering,Female,0.2,0.3,0.2,0.3,8,6,Logical,7,Married,Full-time,C++,80000,0.8563,23,0.7689
+Ava Adams,27,HR,Female,0.2,0.4,0.3,0.1,6,8,People-oriented,6,Single,Full-time,Recruitment,55000,0.6289,17,0.4198
+Alexander Wright,32,Finance,Male,0.3,0.3,0.2,0.2,9,5,Logical,9,Married,Full-time,Investment Banking,75000,0.8596,24,0.6791
+Sophia Mitchell,29,Engineering,Female,0.2,0.1,0.4,0.3,7,7,Analytical,8,Married,Full-time,Data Science,70000,0.8167,22,0.6532
+William Turner,35,IT,Male,0.3,0.3,0.1,0.3,10,8,Detail-oriented,7,Married,Full-time,Software Development,80000,0.9185,25,0.7321
+Olivia Lee,30,Marketing,Female,0.4,0.2,0.2,0.2,5,6,Creative,7,Single,Full-time,Brand Management,60000,0.5320,16,0.5265
+Daniel Walker,33,Engineering,Male,0.3,0.2,0.3,0.2,9,7,Logical,9,Married,Full-time,Java,75000,0.8795,24,0.6940
+Emma Hill,28,Marketing,Female,0.2,0.3,0.3,0.2,6,6,Collaborative,7,Single,Full-time,Content Creation,58000,0.5121,17,0.5034
+James Collins,34,IT,Male,0.2,0.3,0.3,0.2,8,8,Analytical,8,Married,Full-time,Cybersecurity,70000,0.7892,21,0.6287
+Sophia Rodriguez,27,Marketing,Female,0.3,0.1,0.3,0.3,5,6,Creative,8,Single,Part-time,Graphic Design,45000,0.5481,14,0.3796
+William Thompson,36,Finance,Male,0.2,0.2,0.3,0.3,10,5,Logical,9,Married,Full-time,Financial Analysis,85000,0.9416,28,0.7023
+Ava Parker,29,IT,Female,0.4,0.2,0.2,0.2,7,7,Analytical,8,Single,Full-time,Cloud Computing,70000,0.8534,23,0.7489
+Ethan Mitchell,31,Engineering,Male,0.2,0.4,0.2,0.2,8,6,Logical,7,Married,Full-time,C++,80000,0.8563,23,0.7589
+Emily Wright,27,HR,Female,0.2,0.3,0.2,0.3,6,8,People-oriented,6,Single,Full-time,Employee Relations,55000,0.6178,18,0.4148
+Jacob Garcia,32,Engineering,Male,0.3,0.3,0.1,0.3,9,7,Analytical,9,Married,Full-time,Python,80000,0.9185,25,0.7530
+Sophia Hernandez,28,Marketing,Female,0.2,0.2,0.4,0.2,6,6,Creative,7,Single,Full-time,Digital Marketing,60000,0.5120,17,0.5833
+Ethan Martinez,35,Finance,Male,0.2,0.3,0.3,0.2,10,5,Detail-oriented,8,Married,Part-time,Accounting,45000,0.7892,21,0.4893
+Olivia Davis,30,HR,Female,0.1,0.4,0.2,0.3,7,8,People-oriented,6,Single,Full-time,Human Resources,55000,0.6578,18,0.3948
+Noah Johnson,33,Engineering,Male,0.3,0.3,0.1,0.3,9,7,Logical,9,Married,Full-time,Java,75000,0.8625,24,0.7040
+Isabella Lopez,29,Marketing,Female,0.2,0.2,0.4,0.2,6,6,Collaborative,7,Single,Full-time,Content Marketing,58000,0.4821,16,0.5765
+Michael Wilson,31,Engineering,Male,0.3,0.1,0.3,0.3,8,7,Analytical,8,Married,Full-time,JavaScript,70000,0.8176,22,0.6543
+Mia Anderson,34,IT,Female,0.2,0.4,0.1,0.3,9,8,Detail-oriented,7,Married,Full-time,Database Administration,65000,0.7512,20,0.6543
+Liam Moore,27,Marketing,Male,0.3,0.2,0.2,0.3,5,6,Creative,8,Single,Part-time,Graphic Design,45000,0.5201,14,0.3496
+Charlotte Smith,36,Finance,Female,0.2,0.2,0.3,0.3,10,5,Logical,9,Married,Full-time,Financial Analysis,85000,0.9456,28,0.6921
